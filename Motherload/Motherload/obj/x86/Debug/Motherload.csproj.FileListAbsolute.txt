@@ -1,0 +1,40 @@
+c:\users\jak160\documents\visual studio 2010\Projects\Motherload\Motherload\obj\x86\Debug\Motherload.Form1.resources
+c:\users\jak160\documents\visual studio 2010\Projects\Motherload\Motherload\obj\x86\Debug\Motherload.Fuel_Station.resources
+c:\users\jak160\documents\visual studio 2010\Projects\Motherload\Motherload\obj\x86\Debug\Motherload.Properties.Resources.resources
+c:\users\jak160\documents\visual studio 2010\Projects\Motherload\Motherload\obj\x86\Debug\Motherload.csproj.GenerateResource.Cache
+c:\users\jak160\documents\visual studio 2010\Projects\Motherload\Motherload\bin\Debug\Motherload.exe
+c:\users\jak160\documents\visual studio 2010\Projects\Motherload\Motherload\bin\Debug\Motherload.pdb
+c:\users\jak160\documents\visual studio 2010\Projects\Motherload\Motherload\obj\x86\Debug\Motherload.exe
+c:\users\jak160\documents\visual studio 2010\Projects\Motherload\Motherload\obj\x86\Debug\Motherload.pdb
+c:\users\jak160\documents\visual studio 2010\Projects\Motherload\Motherload\obj\x86\Debug\Motherload.Bank.resources
+c:\users\jak160\documents\visual studio 2010\Projects\Motherload\Motherload\obj\x86\Debug\Motherload.Store.resources
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.exe
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.pdb
+D:\School_Motherload\Motherload\Motherload\bin\Debug\Motherload.exe
+D:\School_Motherload\Motherload\Motherload\bin\Debug\Motherload.pdb
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.csprojResolveAssemblyReference.cache
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Bank.resources
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Form1.resources
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Fuel_Station.resources
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Properties.Resources.resources
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Store.resources
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.csproj.GenerateResource.Cache
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.exe
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.pdb
+E:\School_Motherload\Motherload\Motherload\bin\Debug\Motherload.exe
+E:\School_Motherload\Motherload\Motherload\bin\Debug\Motherload.pdb
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.csprojResolveAssemblyReference.cache
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Bank.resources
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Form1.resources
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Fuel_Station.resources
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Properties.Resources.resources
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Store.resources
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.csproj.GenerateResource.Cache
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Not_Enough_Cash.resources
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Tank_Full.resources
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.you_filled_up.resources
+E:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Nothing_Selected.resources
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Nothing_Selected.resources
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Not_Enough_Cash.resources
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.Tank_Full.resources
+D:\School_Motherload\Motherload\Motherload\obj\x86\Debug\Motherload.you_filled_up.resources
